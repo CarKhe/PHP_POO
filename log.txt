@@ -1,0 +1,6 @@
+[E][05-14-24 17:08:14]: Can´t insert 
+[I][05-14-24 17:08:14]: Data inserted 
+[W][05-14-24 17:08:14]: double inserted 
+[E][05-14-24 17:08:48]: Can´t insert 
+[I][05-14-24 17:08:48]: Data inserted 
+[W][05-14-24 17:08:48]: double inserted 
